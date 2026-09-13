@@ -1,0 +1,7 @@
+
+*.csv
+*.png
+.venv/
+figures/
+
+data/
